@@ -60,7 +60,7 @@ public class Laboratorio {
                 suma += temp;
             }
             double promedio = (double) suma / matriz[i].length;
-            System.out.println("Promedio Ciudad " + i + ": " + promedio + "°C");
+            System.out.println("Promedio Ciudad: " + i + ": " + promedio + "°C");
         }
     }
 
